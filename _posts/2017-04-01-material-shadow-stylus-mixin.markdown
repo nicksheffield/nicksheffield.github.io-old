@@ -1,8 +1,5 @@
 ---
-layout: post
-title:  "Material Shadow Stylus Mixin"
-date:   2017-04-01 15:44:19 +1200
-post_class: post-template
+title: 'Material Shadow Stylus Mixin'
 cover: /assets/images/Screen-Shot-2017-03-31-at-10.41.52-PM.png
 ---
 

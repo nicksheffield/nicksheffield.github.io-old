@@ -1,8 +1,5 @@
 ---
-layout: post
 title:  "Flexy.css"
-date:   2017-03-31 14:44:19 +1200
-post_class: post-template
 ---
 [Github](https://github.com/nicksheffield/flexy)
 

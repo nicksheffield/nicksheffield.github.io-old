@@ -1,8 +1,5 @@
 ---
-layout: post
 title:  "AngleTools.js"
-date:   2017-04-02 15:44:19 +1200
-post_class: post-template
 ---
 I made a thing called AngleTools.js.
 

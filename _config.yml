@@ -17,3 +17,12 @@ timezone: Pacific/Auckland
 # Details for the RSS feed generator
 url:            'http://nsheff.com'
 author:         'Nick Sheffield'
+
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      post_class: post-template
+      layout: post
