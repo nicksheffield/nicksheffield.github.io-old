@@ -4,7 +4,7 @@ meta_description: "Some kind of web developer"
 author_bio: "I'm a front-end developer from Auckland, NZ"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
