@@ -12,6 +12,7 @@ domain_name: 'http://nsheff.com'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 permalink: /:title
+timezone: Pacific/Auckland
 
 # Details for the RSS feed generator
 url:            'http://nsheff.com'
