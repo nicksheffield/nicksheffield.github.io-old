@@ -32,7 +32,6 @@ title: "VIsual Studio Code Settings"
     "editor.mouseWheelZoom": true,
     "editor.renderWhitespace": "boundary",
     "window.zoomLevel": 0,
-    "editor.fontWeight": "100",
     "workbench.iconTheme": "seti"
 }
 {% endhighlight %}
