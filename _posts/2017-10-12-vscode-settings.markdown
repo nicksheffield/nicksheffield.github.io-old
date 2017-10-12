@@ -4,7 +4,7 @@ title: "VIsual Studio Code Settings"
 
 ## User settings
 
-```
+{% highlight javascript %}
 {
     "editor.fontFamily": "Hasklig",
     "editor.insertSpaces": false,
@@ -37,10 +37,10 @@ title: "VIsual Studio Code Settings"
     "editor.fontWeight": "100",
     "workbench.iconTheme": "seti"
 }
-```
+{% endhighlight %}
 
 ### Keybindings.json 
-```
+{% highlight javascript %}
 // Place your key bindings in this file to overwrite the defaults
 [
 	{
@@ -80,4 +80,4 @@ title: "VIsual Studio Code Settings"
 		"when": "editorTextFocus && !editorReadonly"
 	}
 ]
-```
+{% endhighlight %}
