@@ -25,9 +25,7 @@ title: "VIsual Studio Code Settings"
         "**/CVS": true,
         "**/.DS_Store": true,
         "**/tmp": true,
-        "**/dist": true,
-        "**/node_modules": true,
-        "**/bower_components": true
+        "**/tests": true
     },
     "editor.minimap.renderCharacters": false,
     "editor.parameterHints": false,
