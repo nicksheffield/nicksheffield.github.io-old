@@ -11,7 +11,6 @@ title: "VIsual Studio Code Settings"
     "editor.fontLigatures": true,
     "workbench.colorTheme": "JetJet",
     "editor.lineHeight": 23,
-    "editor.tabCompletion": true,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.quickSuggestions": {
         "other": false,
@@ -30,9 +29,12 @@ title: "VIsual Studio Code Settings"
     "editor.minimap.renderCharacters": false,
     "editor.parameterHints": false,
     "editor.mouseWheelZoom": true,
-    "editor.renderWhitespace": "boundary",
+    "editor.renderWhitespace": "none",
     "window.zoomLevel": 0,
-    "workbench.iconTheme": "seti"
+    "workbench.iconTheme": "seti",
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "emmet.triggerExpansionOnTab": true
 }
 {% endhighlight %}
 
